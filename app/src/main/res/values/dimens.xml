@@ -1,0 +1,19 @@
+<resources>
+
+    <!--宽高-->
+    <dimen name="main_01">256dp</dimen>
+    <dimen name="main_02">42dp</dimen>
+    <dimen name="main_03">5dp</dimen>
+    <dimen name="main_04">12dp</dimen>
+
+
+
+    <!--间距-->
+    <dimen name="margin_01">16dp</dimen>
+    <dimen name="margin_02">64dp</dimen>
+
+    <!--字体-->
+    <dimen name="textSize_01">16sp</dimen>
+    <dimen name="textSize_02">24sp</dimen>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">360 VR</string>
+    
+    <string name="card_content">360° VR 是参照孙福生的 DroidVR 项目 (\n\nhttps://github.com/sfsheng0322/DroidVR\n\n)，图片来源新浪微博的全景图，我下载了放在项目里。\n\n 主要是使用了 VrPanoramaView 这个类是现象全景图的效果。挺好玩的。恩，就是这样。</string>
+    <string name="share_content">分享一款应用: 360° VR,可以看一些我给的全景图</string>
+
+
+</resources>
